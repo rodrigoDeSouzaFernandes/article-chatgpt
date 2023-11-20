@@ -6,6 +6,7 @@
 - Crie 10 ideias de blocos para um artigo técnico com o título "Cuidados necessários ao utilizar o GhatGPT em seus projetos"
 
 - Comporte-se como um escritor de artigos tech front end e escreva o artigo atentendo as regras abaixo
+  ```
 
   {REGRAS}
   >Título: "Evitando Armadilhas: Como Garantir um Uso Consciente do GhatGPT em Seus Projetos"
@@ -22,6 +23,8 @@
     -Conclusão
     -Faça um call to action para minhas redes sociais
     -coloque 3 hashtags que façam sentido
+  ```
+
 
 
 ## Link para o artigo:
